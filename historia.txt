@@ -2,7 +2,7 @@ Hola
 
 brandon bonilla tiene 16 años y nacio en colombia
 
-anami tiene 40 años y nacio en internet
+anami es una persona que contribuye a este proyecto open source nacio en internet
 
 chao
 <<<<<<< HEAD

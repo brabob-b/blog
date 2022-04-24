@@ -1,9 +1,10 @@
 # Hyperblog 💚
-Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
-> - niñita
+Este es mi primer blog de github
+>Gracias al curso de platzi pude hacer mi primer blog en internet y poder llevarlo a un
+servidor en remoto, que es actualmente es mi github
+> - Gracias platzi
 
-## En este curso vemos de todo
+## En el cusro que tome de git y github de freedier aprendi esto
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
@@ -13,4 +14,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en windows, linux y mac
 * Disponible para todas las edades
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+Si llegaste hasta aca gracias por leer mi blog me ayudarias mucho si le das una estrella a mi proyecto :)  **A continuacion les dejo mis redes sociales por si me quieren apoyar**.[*Instagram*](https://www.instagram.com/brabob_b/), [*twitter*](https://twitter.com/brabob_b), y aca les dejo mi servidor de [*Discord*](https://discord.com/channels/779001571840360485/785365328451469332) por si se quieren unir
+
+Bay
